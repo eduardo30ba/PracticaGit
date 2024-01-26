@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    Cambio Javy 2
+    Cambio Javy
 </body>
 </html>
